@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/norse_movies/static/css/main.954e7325.css",
-    "main.js": "/norse_movies/static/js/main.8091b981.js",
+    "main.js": "/norse_movies/static/js/main.d48543de.js",
     "index.html": "/norse_movies/index.html",
     "main.954e7325.css.map": "/norse_movies/static/css/main.954e7325.css.map",
-    "main.8091b981.js.map": "/norse_movies/static/js/main.8091b981.js.map"
+    "main.d48543de.js.map": "/norse_movies/static/js/main.d48543de.js.map"
   },
   "entrypoints": [
     "static/css/main.954e7325.css",
-    "static/js/main.8091b981.js"
+    "static/js/main.d48543de.js"
   ]
 }
